@@ -1,25 +1,25 @@
 # Welcome to my profile! 
 
-Hi, I'm Pazong Yang – a Software Engineering student at TripleTen and a passionate learner in the world of technology and user experience.
+Hi, I'm **Pazong Yang** – a Software Engineering student at TripleTen and a passionate learner in the world of technology and user experience.
 
-## About Me
+## About me
 
 I earned my Bachelor of Science in Management Information Systems (MIS) in 2024 and have since been working at Honeywell Aerospace as an Electronic Machine Builder.
 
 In 2025, I joined the TripleTen Software Engineering Program to deepen my understanding of coding and expand my skills in user experience design.
 So far, I’ve completed projects using a variety of technologies, including:
 
-HTML5, CSS3 (Flexbox, Grid Layout, Media Queries, BEM, Transitions)
+* HTML5, CSS3 (Flexbox, Grid Layout, Media Queries, BEM, Transitions)
 
-JavaScript (DOM Manipulation, Debugging)
+* JavaScript (DOM Manipulation, Debugging)
 
-Git & GitHub
+* Git & GitHub
 
-Figma
+* Figma
 
-Form Validation
+* Form Validation
 
-## Why Coding
+## Why coding
 
 My journey into coding began with Python during my college years. Although my major provided a foundation, I found myself eager to dive deeper into the technical side. 
 I started teaching myself using FreeCodeCamp and YouTube tutorials, which helped build my base.
